@@ -48,6 +48,9 @@ Before you begin, ensure you have the following installed:
 
 4. Set up Google API credentials following the instructions [here](https://developers.google.com/gmail/api/quickstart).
 
+5. Set up openAI API credentials following the instructions [here](https://platform.openai.com/docs/overview).
+
+
 ## Usage
 
 1. Run the main script:
