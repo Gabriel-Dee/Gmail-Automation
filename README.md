@@ -33,14 +33,20 @@ Before you begin, ensure you have the following installed:
    git clone https://github.com/Gabriel-Dee/Gmail-Automation.git
    cd Gmail-Automation
    ```
+2. Create environment and Activate it:
 
-2. Install the required dependencies:
+   ```
+   python -m venv env
+   source env/bin/activate
+   ```
+
+3. Install the required dependencies:
 
    ```
    pip install -r requirements.txt
    ```
 
-3. Set up Google API credentials following the instructions [here](https://developers.google.com/gmail/api/quickstart).
+4. Set up Google API credentials following the instructions [here](https://developers.google.com/gmail/api/quickstart).
 
 ## Usage
 
